@@ -21,7 +21,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
 
 # Get non-open-source specific aspects
-$(call inherit-product-if-exists, vendor/motorola/sm8250-common/sm8250-common-vendor.mk)
+$(call inherit-product-if-exists, vendor/motorola/sm6115-common/sm6115-common-vendor.mk)
 
 # Additional native libraries
 PRODUCT_COPY_FILES += \
