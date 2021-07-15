@@ -1,6 +1,6 @@
-Device configuration for Motorola SM8250 Devices
+Device configuration for Motorola SM6115 Devices
 ======================================
 
 Supported devices :
 
-Nio
+Borneo
